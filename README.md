@@ -1,6 +1,6 @@
  This is the README file for Notaboard. (github.com/notaboard/notaboard/)
 
- Notaboard is customised version of Nullboard, packed as Tauri application.
+ Notaboard is a customized version of Nullboard, packed as Tauri application.
  So it is standalone desktop kanban board, running inside of webview for better safety,
  in case you don't trust your browser with your notes.
 
