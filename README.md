@@ -11,7 +11,7 @@
 
  Notaboard consists of 2 parts : frontend part in /src directory,
  which is licensed under 2-clause BSD with the Commons Clause;
- and of Tauri backend in /src-tauri directory, which licensed under MIT.
+ and of Tauri backend in /src-tauri directory, which is licensed under MIT.
  Both licenses are placed in their respective folders.
 
  How to install it ?
