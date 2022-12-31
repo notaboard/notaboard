@@ -23,9 +23,10 @@
     Pick there specific sections for your OS.
     ( note : Notaboard is known to work on Linux, on other OSes we did not test. )
 
- 2. Go to notaboard/src-tauri/src/ and open main.rs in text editor. Replace values
-    of path1 and path0 to some directories on your system,
-    where you would like to save your exported boards. These directories must be writable by your user.
+ 2. Go to notaboard/src-tauri/src/ and open main.rs in text editor.
+    Replace values of path1 and path0 to some directories on your system,
+    where you would like to save your exported boards. 
+    These directories must be writable by your user,
     you can create them yourself if you wish so.
 
  3. Go back to the notaboard top directory.
@@ -42,8 +43,12 @@
     where you can switch between boards for editing them.
 
  8. Notaboard supports some color marking :
+ 
     gggcolorggg -> color will be shown in green
+    
     yyycoloryyy -> color will be shown as yellow on black background
+    
     rrrcolorrrr -> color will be shown as red
+    
     %%link.to/page%% -> will be shown as weblink "link.to/page".
  
